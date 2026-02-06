@@ -40,7 +40,7 @@
       "docsPath": "/channels/xiaoai",
       "docsLabel": "xiaoai",
       "blurb": "小爱音箱接入OpenClaw",
-      "order": 71,
+      "order": 71
     },
     "install": {
       "npmSpec": "@openclaw/xiaoai",
